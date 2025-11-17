@@ -17,6 +17,9 @@ function App() {
         >
           Learn React with shivam sir jii
         </a>
+        <div>
+          Additional div added to test git changes
+        </div>
       </header>
     </div>
   );
